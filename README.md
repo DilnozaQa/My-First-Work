@@ -4,3 +4,4 @@
 | IOS и ANDROID BUG REPORT | |[link](https://docs.google.com/spreadsheets/d/14tbTyqaimLvukeUJVVe2E2y6aBy8XUCr/edit?usp=sharing&ouid=107468525838661515010&rtpof=true&sd=true). |
 | Postmanda Swagger Petstore kolleksiyasi yaratilishi | |[link](https://docs.google.com/document/d/1V_DYITLyifR-PakHnaXbRjtILbiC8mw4/edit?usp=sharing&ouid=107468525838661515010&rtpof=true&sd=true) |
 | ipakyulibank.uz saytini funksionalligini testlash | |[link](https://docs.google.com/spreadsheets/d/1oOJ46fJgfqK6u0OeTekf1KBmu7eLDD_O/edit?usp=sharing&ouid=107468525838661515010&rtpof=true&sd=true).|
+| Swagger Petstore sayti PET, STORE, USER bo’limlarini testlash | |[link](https://docs.google.com/document/d/1HyQept1YZSthVI0kqJMKo_Ac2es6J224/edit?usp=sharing&ouid=107468525838661515010&rtpof=true&sd=true).|
